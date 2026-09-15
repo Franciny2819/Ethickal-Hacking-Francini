@@ -1,4 +1,4 @@
-# Ethickal-Hacking
+# Ethical-Hacking
 Repositorio para actividades y entregables del curso Ethical Hacking.
 
 ## Alumna
